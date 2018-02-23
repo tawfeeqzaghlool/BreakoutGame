@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Breakout Game</string>
+    <string name="breakout_game">Breakout Game</string>
+    <string name="ball_image">ball_image</string>
+</resources>
